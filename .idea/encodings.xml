@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/2.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AddStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ChaXunStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DeleteStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GuanyuFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ImagePancel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ManageHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ModifyFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Read.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SQL.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Sqlfunc.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Start.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudentID.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudentModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudentShowFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SystemMainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TiaojianChaxunFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UpdatePasswordFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserZhucheFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserfundFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/WindowUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/XiuGaiStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/login.png" charset="GBK" />
+  </component>
+</project>
